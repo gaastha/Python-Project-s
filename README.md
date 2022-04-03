@@ -12,3 +12,11 @@ While running the for loop we are storing the index value of str[0] of every wor
 into an uppercase format by using the upper() function.
 
 
+Project 2:-- Generate Random password using random module
+
+I first imported the random module in python ,then I asked for user input for the length of the password.Then I stored the letters,numbers and special 
+characters that I want to be considered while generating a password.Then I am doing a random sampling by joining the length of the password and the variable s, 
+which will finally generate a random password. 
+
+
+
